@@ -1,0 +1,16 @@
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\Projeler.exe
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\Projeler.deps.json
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\Projeler.runtimeconfig.json
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\Projeler.runtimeconfig.dev.json
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\Projeler.dll
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\ref\Projeler.dll
+D:\a-asim\pratikler\Projeler\bin\Debug\net5.0\Projeler.pdb
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.csproj.AssemblyReference.cache
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.AssemblyInfoInputs.cache
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.AssemblyInfo.cs
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.csproj.CoreCompileInputs.cache
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.dll
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\ref\Projeler.dll
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.pdb
+D:\a-asim\pratikler\Projeler\obj\Debug\net5.0\Projeler.genruntimeconfig.cache
